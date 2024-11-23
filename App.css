@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  }
+  body{
+    background-image: url(image/images\ \(1\).jfif);
+   background-repeat: no-repeat;
+   background-size: cover;
+  }
+  .App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:skyblue;
+  text-shadow: 9px 9px black;
+  }
+
+  input {
+  margin: 20px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid skyblue;
+  background-color:black;
+  color: skyblue;
+  border: 3px;
+  box-shadow: 4px 4px skyblue;
+  }
+
+  div {
+  margin-top: 20px;
+  }
